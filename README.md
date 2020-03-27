@@ -1,9 +1,9 @@
 # Robot Web-Scraper
 ## A Web Scraper is a program that scrapes or gathers data off of websites.
 
-###The data that is collected form the robot scraper is given by the parametes that are built into the program.
+The data that is collected form the robot scraper is given by the parametes that are built into the program.
 
-####The purpose of this project is for me to identify useful information for future use on a project that I am currently working on.
+The purpose of this project is for me to identify useful information for future use on a project that I am currently working on.
 
 In this program I will be using facebook.com as my url that my web scraper collects data from.
 1. I will need to research and identify where the information is on the page or pages I want to scrape.
