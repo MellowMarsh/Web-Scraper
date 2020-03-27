@@ -8,7 +8,7 @@ The purpose of this project is for me to identify useful information for future 
 In this program I will be using facebook.com as my url that my web scraper collects data from.
 1. I will need to research and identify where the information is on the page or pages I want to scrape.
 2. I will need to define tags, classes, and other freatures that I want to be scraped.   
-3.The scraper will be built in Python. 
+3. The scraper will be built in Python. 
   -Download Python 
   -I am using Atom as my text editor. 
   -I will also be using The command line to build a virtual enviromant for this program.
