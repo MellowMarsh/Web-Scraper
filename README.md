@@ -15,7 +15,7 @@ In this program I will be using facebook.com as my url that my web scraper colle
   - I will also be using The command line to build a virtual enviromant for this program.
   - Python Libraries: Beautiful Soup, and Requests
   - Start with raw html data
-  - Robot scraper collects the data from html (pyhton)
+  - Robot scraper collects the data from html (python)
   - Store the data (JSON)
   - Parse the data (python)
   
