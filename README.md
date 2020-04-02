@@ -14,7 +14,7 @@ In this program I will be using mothertreewellness as my url that my web scraper
   - I am using Atom as my text editor to the program. 
   - I also used IDLE Shell.
   - Python Libraries: Beautifulsoup, and Requests  
-    -helpful commands: pip3 install beautifulsoup4, pip3 install requests
+    --helpful commands: pip3 install beautifulsoup4, pip3 install requests
   - Start with raw html data
   - Robot scraper collects the data from html (python)
   - Store the data (JSON)
